@@ -82,7 +82,7 @@ Bear in mind that different females have different cycles and some have irregula
 - TODO
 
 ### Singapore Winner
-**Amount:** SGD 2,000  
+**Amount:** USD 2,000  
 **Eligibility:** Your team must **not** include any Accenture employees, and all members must reside in Sinagpore.  
 **Decision available:** The Singapore winner will be announced a the end of #HealthHack on 31st March.  
 **Judges:**
@@ -124,18 +124,12 @@ fairness rules.
 ## Submission
 
 ### Results
-TODO:  
 - How do you submit results?
-- What needs to be contained in a submission?
-    - Do you need a README?
+A: Please see the details in the following link: https://docs.google.com/document/d/1iTWyZl3_5WKgCbY9DVDqtzdQfwLK7n0Sn9PehnHfm-g
 
 ### Presentation
 After the 24 hours, your team will have 30 bonus minutes to finalize a presentation to the local judges. Each team will give a 4 minute presentation followed by 2 minutes of Q&A with the judges.
-
-TODO:
-- How do you submit the presentation?
-- What does the presentation need to contain?
-- What format?
+A: Please see the details in the link above (Results section)
 
 ## Resources
 
@@ -151,35 +145,39 @@ If you would like to use these credits, please approach TODO for your code. Of c
 
 ### Eligbility
 **Q: I am an intern with Accenture. Is my team eligible to win a prize?**  
-A: TODO
+A: No.  Accenture has set the rule that anyone employed or formerly employed (and any of their team members) in any capacity would not be eligible to win a prize.
 
 ### Registration
 
 **Q: What's the process for registration?**  
-A: TODO
+A: If you have already submitted your name and IC to Karthik Naga, you may proceed to the gates at the lobby.
+If not, you must then fill up the details in the security desk at the lobby to be given entrance.
+
+Please make sure to bring your photo ID (for example, NRIC) in order to scan into the gates.
 
 **Q: Do I need to check in at the event?**  
-A: TODO
+A: Yes, you will need to be validated as a registered participant by showing your scannable bar codes from EventBrite to the event organizers at the lobby.
 
 **Q: Can someone join my team after the start of the hackathon?**  
-A: No, all members must be registered before the start of the hackathon.  
+A: You may add members to your team (up to 5 members per team) prior to the 24 hours.  Organizers will come around during the first 2 hours of the hackathon to document team members at which point no changes can be made.  If a team member needs to drop out of the competition, please contact an organizer so we can document that as well.
 
 **Q: Do all team members need to be registered?**  
-A: TODO
+A: Yes, via EventBrite.  However, the team members need to formally form a team within the first 2 hours of the 24 hour hackathon.
 
 **Q: Can team members join remotely?**  
-A: TODO
+A: No, all team members must be physically present and residing in Singapore during the weekend of the hackathon.  If there are any extenuating circumstances (injury, etc), you may email the organizers for an exemption to this rule.  They will be evaluated on a case by case basis.
 
 ### Rules
 **Q: What should I do if my team's submission requires specific packges to run?**  
-A: TODO
+A: This must be clearly documented.  Please see the link above related to Submission process.
 
 **Q: Can my team's submission rely on proprietary (not open-source) software that is not included in the submission?**  
-A: TODO
+A: The team's submitted code must be open-source for everyone to be able to read/view.
 
 **Q: If my team makes a submission for the pslove challenge, are we also eligible to win the global or Singapore challenged?**  
 A: Yes! Teams that enter any pslove challenge are also eligible for global and Singapore prizes as long as they are not Accenture employees.
 
 ### Judging
 **Q: Does my team's presentation affect our chances of winning a challenge?**  
-A: TODO
+A: The quality of the code, innovation and application to healthcare are what impact the chances of winning a challenge.  However, the presentation can be used to further highlight and showcase the excellence in these areas, that might not readily be observed if not for the presentation.
+
