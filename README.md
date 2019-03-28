@@ -6,7 +6,7 @@ in healthcare, and this page contains everything you need to know to have a grea
 
 All are welcome, so grab your laptop and charger and let's make the data lit!
 
-## [Click here for full details](wiki)
+## [Click here for full details](../wiki)
 
 ## Challenges
 
