@@ -10,27 +10,7 @@ All are welcome, so grab your laptop and charger and let's make the data lit!
 
 ## Challenges
 
-### Challenge 1
-**Overview**: NIH chest x-ray dataset of 14 common thorax disease categories  
-**Details and data**: TODO  
-**Be sure to read the README_CHESTXRAY.pdf and FAQ_CHESTXRAY.pdf files first!**
-
-### Challenge 2
-**Overview**: Classifying Diseases by clustering phenotypes using automated text analysis  
-**Details and data**: TODO  
-
-### Challenge 3
-**Overview**: Subclassification of disease states based on the intersection of literature and expression  
-**Details and data**: TODO  
-
-### Challenge 4
-**Overview**: Versatile antibiotic resistance pipeline  
-**Details and data**: TODO  
-
-### pslove challenge
-**Details**: Predict when an upcoming period will most likely start next for a given female user.
-Bear in mind that different females have different cycles and some have irregular period cycles.  
-**Data**: TODO  
+Will be revealed on 30 March 2019 at 3:30 PM! Watch this space!
 
 
 ## Schedule and Deadlines
