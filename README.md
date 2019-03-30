@@ -6,12 +6,7 @@ in healthcare, and this page contains everything you need to know to have a grea
 
 All are welcome, so grab your laptop and charger and let's make the data lit!
 
-## [Click here for full details](../../wiki)
-
-## Challenges
-
-Will be revealed on 30 March 2019 at 3:30 PM! Watch this space!
-
+## [Click here for challenges](../../wiki)
 
 ## Schedule and Deadlines
 
